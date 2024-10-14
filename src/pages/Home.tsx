@@ -4,7 +4,7 @@ import React from "react";
 
 const HomePage: React.FC = () => {
   return (
-    <div className="bg-custom-gradient">
+    <div className="w-screen bg-custom-gradient">
       <HeroSection />
       <FeatureSection />
     </div>

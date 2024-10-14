@@ -74,7 +74,7 @@ const SEOAnalysis = () => {
               </div>
 
               {/* Right Column Content */}
-              <div className="relative p-4 ">
+              <div className="relative p-4 mr-20 ">
                 <img className="relative mt-10" src={Loser} alt="Winner" />
                 <img
                   className="absolute -top-1 left-1/3"
@@ -124,10 +124,10 @@ const SEOAnalysis = () => {
               </div>
 
               {/* Right Column Content */}
-              <div className="relative p-4 ">
+              <div className="relative p-4 mr-20">
                 <img className="relative mt-10" src={volatility} alt="Winner" />
                 <img
-                  className="absolute -top-8 -left-1/3"
+                  className="absolute -top-8 -left-7"
                   src={voice}
                   alt="Winner"
                 />
@@ -174,7 +174,7 @@ const SEOAnalysis = () => {
               </div>
 
               {/* Right Column Content */}
-              <div className="relative p-4 ">
+              <div className="relative p-4 mr-20 ">
                 <img
                   className="relative mt-10"
                   src={Entrants}
@@ -231,7 +231,7 @@ const SEOAnalysis = () => {
               </div>
 
               {/* Right Column Content */}
-              <div className="relative p-4 ">
+              <div className="relative p-4 mr-20 ">
                 <img
                   className="relative mt-10"
                   src={Location}
@@ -290,7 +290,7 @@ const SEOAnalysis = () => {
               </div>
 
               {/* Right Column Content */}
-              <div className="relative p-4 ">
+              <div className="relative p-4 mr-20 ">
                 <img
                   className="relative mt-10"
                   src={Portfolios}

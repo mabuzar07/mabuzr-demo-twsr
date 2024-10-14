@@ -7,7 +7,7 @@ type LayoutProps = {
 
 const DefaultLayout: React.FC<LayoutProps> = ({ children }) => {
   return (
-    <div className="flex flex-col min-h-screen">
+    <div className="flex flex-col w-screen">
       <AppHeader />
       <main className="flex-grow">{children}</main>
     </div>
